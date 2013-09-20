@@ -16,3 +16,6 @@
 *.out
 *.app
 
+#Swap files
+*.swo
+*.swp
